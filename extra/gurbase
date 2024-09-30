@@ -1,0 +1,44 @@
+.menu_items ul li {
+    display: inline-block;
+    list-style: none;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 25px;
+}
+
+.main_menu{
+    display: flex;
+    width: 80%;
+
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+header{
+background-color: beige;
+display: flex;
+justify-content: center;
+}
+
+    
+
+.logo{
+    font-size: 30px;
+}
+
+img{
+    margin-left: 900px;
+    width: 400px;
+    background-color: red;
+}
+
+ul{
+    margin-top: 10px;
+}
